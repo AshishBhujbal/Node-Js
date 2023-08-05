@@ -1,0 +1,25 @@
+console.log()  in node console is class and it have three method  like web broweser have(log,warn)
+/////////////
+array filter function ->whcih take function and iterate element of array used to filter array element 
+///////////
+core module(global),non-global module
+
+core module ---available by default we do not need to import it.
+non-global ---- we need to import before use it example fs,buffer.
+/////////////
+package.json  --- do not delete 
+node_module --- if you delete this folder dont worry just run 'npm install'  node module created
+do not push node_module on git it heavy  (.gitignore--->/node_module)
+/////////////
+nodemone --- run your project continuously saves your time
+
+to run js using nodemon  ----->nodemone fileName.js  
+/////////////////////////////
+node js single threaded async
+///////////
+status code uses
+/////////////
+path module
+////2.10.27 time
+/////////////////////////////////////////////////
+Buffer -> it is temp memory location 
